@@ -7,7 +7,7 @@ This is a simple jwt API that allows users to add and remove countries
 - The list of accepted usernames can be found and updated at `config/index.js`
 - An authorization token called `x-access-token` is expected when making calls to protected routes. To get a token, you need to login. No need to set bearer in front of the token e.g 
 ```
-x-access-token emeorjeiorheirheihroehreihrioehiohriehreiohrihsasvagcftw232342ahdvsh
+x-access-token: emeorjeiorheirheihroehreihrioehiohriehreiohrihsasvagcftw232342ahdvsh
 ```
 
 ## how to run 
